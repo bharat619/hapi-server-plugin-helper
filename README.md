@@ -1,16 +1,18 @@
 
 ![npm (scoped)](https://img.shields.io/npm/v/hapi-server-plugin-helper.svg)
 
-Description#
-A package to register all the Hapi plugin at a single point.
+<h1>Description</h1>
+A simple package, which registers all the plugins at a single point. The package is mainly developed to avoid repetation of code and follow DRY principle.
 
-Install#
+Please feel free to raise issues for any queries
+
+<h1>Install</h1>
 ```
 npm install hapi-server-plugin-helper
 ```
 <br/>
 
-Usage#
+<h1>Usage</h1>
 Suppose if you have two or more plugins. Define the plugins and its options, and pass the plugins and options as array.
 
 ```javascript
