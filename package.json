@@ -1,6 +1,6 @@
 {
   "name": "hapi-server-plugin-helper",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple package to register all the plugins at one point",
   "main": "index.js",
   "scripts": {
