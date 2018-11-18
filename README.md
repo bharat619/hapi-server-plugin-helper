@@ -1,11 +1,6 @@
 
 ![npm (scoped)](https://img.shields.io/npm/v/hapi-server-plugin-helper.svg)
 
-![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/hapi-server-plugin-helper.svg)
-
-
-![Packagist](https://img.shields.io/packagist/l/doctrine/hapi-server-plugin-helper.svg)
-
 Description#
 A package to register all the Hapi plugin at a single point.
 
