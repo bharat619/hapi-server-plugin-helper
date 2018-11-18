@@ -18,7 +18,7 @@ npm install hapi-server-plugin-helper
 Usage#
 Suppose if you have two or more plugins. Define the plugins and its options, and pass the plugins and options as array.
 
-```
+```javascript
 import good from 'good';
 import disinfect from 'disinfect';
 
