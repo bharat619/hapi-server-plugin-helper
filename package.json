@@ -1,0 +1,21 @@
+{
+  "name": "hapi-server-plugin-helper",
+  "version": "1.0.0",
+  "description": "A simple package to register all the plugins at one point",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/bharat619"
+  },
+  "keywords": [
+    "hapi",
+    "javascript",
+    "nodeJS",
+    "register"
+  ],
+  "author": "Bharat Hegde",
+  "license": "MIT"
+}
