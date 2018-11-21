@@ -7,9 +7,9 @@ A simple package, which registers all the plugins at a single point. The package
 Please feel free to raise issues for any queries
 
 <h1>Install</h1>
-```
-npm install hapi-server-plugin-helper
-```
+
+```npm install hapi-server-plugin-helper```
+
 <br/>
 
 <h1>Usage</h1>
